@@ -11,3 +11,6 @@ and view the list of cities we are currently operational in.
 
 Corresponding to the city selected a list of doctors comes on the screen which shows Doctor's name,Qualification,
 Years of Experience,Hospital Address and Contact Number.
+
+
+Please refer to 'instruction' file to open the project.
